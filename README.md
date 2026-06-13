@@ -1,16 +1,15 @@
 <div align="center">
 
-# 📁 Project Manager App
+Project Manager App
 
 ### Full-Stack Project & Task Management Platform
 
 A web application designed to help users organize projects, track tasks, and manage development workflows through a simple and intuitive interface.
 
 ---
-
-👩‍💻 **Created by Faith Burnett**  
+**Created by Faith Burnett**  
 Full-Stack Developer • Data Engineering • Systems Integration
-🌐 https://faithb.dev
+https://faithb.dev
 
 </div>
 
@@ -270,19 +269,19 @@ The project reflects my interests in:
 Full-Stack Developer  
 Data Engineering • Systems Integration
 
-🌐 Portfolio
+Portfolio
 https://faithb.dev
 
-💻 GitHub
+GitHub
 https://github.com/faithbrnttt
 
-🔗 LinkedIn
+LinkedIn
 https://www.linkedin.com/in/faithbdev
 
 ---
 
 <div align="center">
 
-### ⭐ If you found this project interesting, feel free to star the repo!
+### If you found this project interesting, feel free to star the repo!
 
 </div>
